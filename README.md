@@ -2,4 +2,4 @@
 
 Here's some stuff.
 
-Jackdaws love my big sphinx of quartz.
+The quick brown fox jumps over the lazy dog.
